@@ -3,18 +3,18 @@ Mvend internship recruitment task
 
 ./clean_trans_hist.sh sm_transaction_history.csv
 
-Terminal output
+## Terminal output
 
-Pre-data cleaning ...
-Replacing \r with \n
-Removing all double qoutes
-Removing all double semi columns and inserting ;NULL; for missing values
-Removing all tail commas
-Removing blank lines and joining
-Pre-data cleaning complete
+Pre-data cleaning ... <br>
+Replacing \r with \n <br>
+Removing all double qoutes <br>
+Removing all double semi columns and inserting ;NULL; for missing values <br>
+Removing all tail commas <br>
+Removing blank lines and joining <br>
+Pre-data cleaning complete <br>
 
-sm_transaction_history.csv is now clean
+## sm_transaction_history.csv is now clean
 
-sm_transaction_history_original.csv is the initial dirty data
+## sm_transaction_history_original.csv is the initial dirty data
 
 
